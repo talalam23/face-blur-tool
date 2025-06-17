@@ -1,0 +1,17 @@
+env/
+venv/
+__pycache__/
+
+# YOLOv5 source code (should be cloned separately by user)
+yolov5/
+
+# Temporary uploaded and processed files
+uploads/
+*.jpg
+*.mp4
+*.avi
+
+# IDE and OS specific files
+.vscode/
+.idea/
+*.DS_Store

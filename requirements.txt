@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+torch
+torchvision
+torchaudio
+ultralytics
+yolov5facedetector
+numpy
+seaborn
+matplotlib
+huggingface_hub
